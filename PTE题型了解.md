@@ -17,7 +17,7 @@
         - Sumarize Written Text * 2
             - 本题需要考生将所给文本主旨归纳成一个单句。本题作答时间为10分钟，作答重点概括句词数不超过75词。屏幕下方有词数记录，可使用剪切、复制、粘贴功能。
     - Section4 10 or 20 mins
-        - Sumarize Written Test, or
+        - Sumarize Written Text, or
         - Write Essay
     - Section5 20 mins
         - Wtrite Essay
